@@ -1,3 +1,3 @@
 var givenNumber = 119;
-var result = givenNumber % 4;
+var result = givenNumber % 5;
 console.log(result);
