@@ -14,3 +14,4 @@ else if(bmi >=25 && bmi <= 29.9){
 else{
     console.log("You'r Obese");
 }
+
